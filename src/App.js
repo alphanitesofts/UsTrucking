@@ -10,6 +10,7 @@ import Pricing from './Components/Homepage/Pricing';
 import Quotes from './Components/Homepage/Quotes';
 import Team from './Components/Homepage/Team';
 import Footer from './Components/Homepage/Footer';
+
 function App() {
   return (
     <div>
