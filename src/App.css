@@ -3,3 +3,8 @@
     height: 400px;
   }
 }
+
+html,
+body {
+  overflow-x: hidden;
+}

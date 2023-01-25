@@ -10,6 +10,8 @@ import Pricing from './Components/Homepage/Pricing';
 import Quotes from './Components/Homepage/Quotes';
 import Team from './Components/Homepage/Team';
 import Footer from './Components/Homepage/Footer';
+import Testimonial from './Components/Homepage/Testimonial';
+import About from './Components/Homepage/About';
 
 function App() {
   return (
@@ -18,9 +20,11 @@ function App() {
       <Navbar/>
       <Hero/>
       <Facts/>
+      <About/>
       <Services/>
       <Features/>
       <Pricing/>
+      <Testimonial/>
       <Quotes/>
       <Team/>
       <Footer/>
