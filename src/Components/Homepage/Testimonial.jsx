@@ -73,7 +73,7 @@ const Testimonial = () => {
                 <div className="testimonial-item p-4 my-5">
                   <i className="fa fa-quote-right fa-3x text-light position-absolute top-0 end-0 mt-n3 me-4" />
                   <div className="d-flex align-items-end mb-4">
-                    <img className="img-fluid flex-shrink-0" src="img/dispatch.jpg.jpg" style={{ width: 80, height: 80 }} />
+                    <img className="img-fluid flex-shrink-0" src="img/dispatch.jpg" style={{ width: 80, height: 80 }} />
                     <div className="ms-4">
                       <h5 className="mb-1">Erik Maqueda</h5>
                       <p className="m-0">Chicago, IL</p>
