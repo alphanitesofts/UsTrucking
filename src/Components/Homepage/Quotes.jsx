@@ -15,7 +15,7 @@ const Quotes = () => {
             <i className="fa fa-headphones fa-2x flex-shrink-0 bg-primary p-3 text-white" />
             <div className="ps-4">
               <h6>Call for any query!</h6>
-              <h3 className="text-primary m-0">+012 345 6789</h3>
+              <h3 className="text-primary m-0">(510) 751-6029</h3>
             </div>
           </div>
         </div>

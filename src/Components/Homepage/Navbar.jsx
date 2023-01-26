@@ -6,7 +6,7 @@ const Navbar = () => {
       {/* Navbar Start */}
       <nav className="navbar navbar-expand-lg bg-white navbar-light shadow border-top border-5 border-primary fixed-top p-0">
         <a href="index.html" className="navbar-brand bg-primary d-flex align-items-center px-4 px-lg-5">
-          <h2 className="mb-2 text-white">Logistica</h2>
+          <h2 className="mb-2 text-white">Us Trucking</h2>
         </a>
         <button type="button" className="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
           <span className="navbar-toggler-icon" />
@@ -29,7 +29,7 @@ const Navbar = () => {
             </div>
             <a href="contact.html" className="nav-item nav-link">Contact</a>
           </div>
-          <h4 className="m-0 pe-lg-5 d-none d-lg-block"><i className="fa fa-headphones text-primary me-3" />+012 345 6789</h4>
+          <h4 className="m-0 pe-lg-5 d-none d-lg-block"><i className="fa fa-headphones text-primary me-3" />(510) 751-6029</h4>
         </div>
       </nav>
       {/* Navbar End */}
