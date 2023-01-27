@@ -4,7 +4,7 @@ const Facts = () => {
   return (
     <div>
         {/* Fact Start */}
-  <div className="container-xxl py-5">
+  <div className="container-xxl py-5" id='facts'>
     <div className="container">
       <div className="row g-5">
         <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">

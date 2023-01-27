@@ -45,7 +45,7 @@ const Testimonial = () => {
   return (
     <div>
       {/* Testimonial Start */}
-      <div className="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
+      <div className="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s" id='testimonial'>
         <div className="container py-5">
           <div className="text-center">
             <h6 className="text-secondary text-uppercase">Testimonial</h6>
@@ -64,7 +64,7 @@ const Testimonial = () => {
                       <p className="m-0">Dalias, TX</p>
                     </div>
                   </div>
-                  <p className="mb-0">"They know how to pick and choose the best loads for my drivers. I've worked with many truck dispatch service companies and none of them cared for my company as much Truck Dispatch 360. They reduced so much stress and headaches for me. My drivers are happy with these guys. They are getting me amazing rates and lanes. Wish I found them sooner!"</p>
+                  <p className="mb-0">"They know how to pick and choose the best loads for my drivers. I've worked with many truck dispatch service companies and none of them cared for my company as much Us Trucking LLc. They reduced so much stress and headaches for me. My drivers are happy with these guys. They are getting me amazing rates and lanes. Wish I found them sooner!"</p>
                 </div>
               </div>
 
@@ -78,7 +78,7 @@ const Testimonial = () => {
                       <p className="m-0">Chicago, IL</p>
                     </div>
                   </div>
-                  <p className="mb-0">"If it was not for Truck Dispatch 360, my trucking business would not be where it is today. Their truck dispatch service makes my business run smoothly. They are booking $3.20+ per mile loads on a consistent basis for my OTR drivers. I would highly recommend their services to anyone looking to outsource their dispatching. "</p>
+                  <p className="mb-0">"If it was not for Us Trucking LLc, my trucking business would not be where it is today. Their truck services makes my business run smoothly. They are booking $3.20+ per mile loads on a consistent basis for my OTR drivers. I would highly recommend their services to anyone looking to outsource their dispatching. "</p>
                 </div>
               </div>
 

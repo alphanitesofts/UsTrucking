@@ -4,7 +4,7 @@ const Services = () => {
   return (
     <div>
       {/* Service Start */}
-      <div className="container-xxl py-5">
+      <div className="container-xxl py-5" id='services'>
         <div className="container py-5">
           <div className="text-center wow fadeInUp" data-wow-delay="0.1s">
             <h6 className="text-secondary text-uppercase">Our Services</h6>
@@ -90,7 +90,7 @@ const Services = () => {
                 <div className='card-body'>
                   <h3 className='text-center'>Flatbed/Stepdeck</h3>
                   <img src="img/flat.png" className='mt-3 mb-3 ms-5' alt="" />
-                  <p className='text-white'>If you are looking for a flatbed truck dispatcher to manage your flatbed or conestoga freight, Truck Dispatch 360 has you covered. We offer professional truck dispatch services for serious truckers. Reach out to our freight dispatchers.</p>
+                  <p className='text-white'>If you are looking for a flatbed truck dispatcher to manage your flatbed or conestoga freight, Us Trucking LLc has you covered. We offer professional truck dispatch services for serious truckers. Reach out to our freight dispatchers.</p>
                 </div>
               </div>
             </div>
@@ -100,7 +100,7 @@ const Services = () => {
                 <div className='card-body'>
                   <h3 className='text-center'>Reefer</h3>
                   <img src="img/ree.png" className='mt-3 mb-3 ms-5' alt="" />
-                  <p className='text-white'>If you are looking for a reefer truck dispatcher to manage your reefer freight, our truck dispatchers at Truck Dispatch 360 can help you achieve your goals. Reach out today to speak to one of our expert truck dispatchers. </p>
+                  <p className='text-white'>If you are looking for a reefer truck dispatcher to manage your reefer freight, our truck dispatchers at Us Trucking LLc can help you achieve your goals. Reach out today to speak to one of our expert truck dispatchers. </p>
                 </div>
               </div>
             </div>

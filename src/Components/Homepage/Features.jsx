@@ -4,7 +4,7 @@ const Features = () => {
   return (
     <div>
         {/* Feature Start */}
-  <div className="container-fluid overflow-hidden py-5 px-lg-0">
+  <div className="container-fluid overflow-hidden py-5 px-lg-0" id='features'>
     <div className="container feature py-5 px-lg-0">
       <div className="row g-5 mx-lg-0">
         <div className="col-lg-6 feature-text wow fadeInUp" data-wow-delay="0.1s">
