@@ -2,7 +2,6 @@ import './App.css';
 import Hero from './Components/Homepage/Hero';
 import Navbar from './Components/Homepage/Navbar';
 import PreLoader from './Components/Homepage/PreLoader';
-import Main from './Components/Main';
 import Facts from './Components/Homepage/Facts';
 import Services from './Components/Homepage/Services';
 import Features from './Components/Homepage/Features';
@@ -28,7 +27,6 @@ function App() {
       <Quotes/>
       <Team/>
       <Footer/>
-      <Main/>
 
     </div>
   );

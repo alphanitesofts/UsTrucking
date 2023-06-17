@@ -28,7 +28,7 @@ const Navbar = () => {
             </div>
             <a href="#contact" className="nav-item nav-link">Contact</a>
           </div>
-          <h4 className="m-0 pe-lg-5 d-none d-lg-block"><i className="fa fa-headphones text-primary me-3" />(510) 751-6029</h4>
+          <h4 className="m-0 pe-lg-5 d-none d-lg-block"><i className="fa fa-headphones text-primary me-3" /> (888-462-1113) Ex 101</h4>
         </div>
       </nav>
       {/* Navbar End */}

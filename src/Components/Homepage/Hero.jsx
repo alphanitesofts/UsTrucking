@@ -9,7 +9,7 @@ const Hero = () => {
                         <img className="img-fluid heroImg" src="img/truck2.jpg" alt />
                         <div className="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style={{ background: 'rgba(6, 3, 21, .5)' }}>
                             <div className="container">
-                                <div className="row justify-content-start">
+                                <div className="row justify-content-start mt-5">
                                     <div className="col-10 col-lg-8">
                                         <h5 className="text-white text-uppercase mb-3 animated slideInDown">Transport &amp; Logistics Solution</h5>
                                         <h1 className="display-3 text-white animated slideInDown mb-4">#1 Place For Your <span className="text-primary">Logistics</span> Solution</h1>

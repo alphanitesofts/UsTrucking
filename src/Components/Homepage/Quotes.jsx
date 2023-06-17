@@ -9,7 +9,7 @@ const Quotes = () => {
           <div className="row g-5 align-items-center">
             <div className="col-lg-5 wow fadeInUp" data-wow-delay="0.1s">
               <h6 className="text-secondary text-uppercase mb-3">Get A Quote</h6>
-              <h1 className="">Request A Free Qoute!</h1>
+              <h1 className="">Request A Free Quote!</h1>
               <p className="mb-3">
                 Thank you for your interest in our services. We are dedicated to providing our clients with the highest quality products and services. <br />
                 Please provide us with as much information as possible regarding the scope of your project. This information will help us create an accurate quote tailored to your needs.
@@ -19,7 +19,8 @@ const Quotes = () => {
                 <i className="fa fa-headphones fa-2x flex-shrink-0 bg-primary p-3 text-white" />
                 <div className="ps-4">
                   <h6>Call for any query!</h6>
-                  <h3 className="text-primary m-0">(510) 751-6029</h3>
+                  <h3 className="text-primary m-0">(888-462-1113) Ex 101</h3>
+                  <h3 className="text-primary m-0">(442-372-7877)</h3>
                 </div>
               </div>
             </div>

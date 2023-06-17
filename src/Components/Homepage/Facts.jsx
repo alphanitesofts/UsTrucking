@@ -15,7 +15,8 @@ const Facts = () => {
             <i className="fa fa-headphones fa-2x flex-shrink-0 bg-primary p-3 text-white" />
             <div className="ps-4">
               <h6>Call for any query!</h6>
-              <h3 className="text-primary m-0"> (510) 751-6029</h3>
+              <h3 className="text-primary m-0"> (888-462-1113) Ex 101</h3>
+              <h3 className="text-primary m-0"> (442-372-7877)</h3>
             </div>
           </div>
         </div>
@@ -24,19 +25,19 @@ const Facts = () => {
             <div className="col-sm-6">
               <div className="bg-primary p-4 mb-4 wow fadeIn" data-wow-delay="0.3s">
                 <i className="fa fa-users fa-2x text-white mb-3" />
-                <h2 className="text-white mb-2" data-toggle="counter-up">1234</h2>
+                <h2 className="text-white mb-2" data-toggle="counter-up">3134</h2>
                 <p className="text-white mb-0">Happy Clients</p>
               </div>
               <div className="bg-secondary p-4 wow fadeIn" data-wow-delay="0.5s">
                 <i className="fa fa-ship fa-2x text-white mb-3" />
-                <h2 className="text-white mb-2" data-toggle="counter-up">1234</h2>
+                <h2 className="text-white mb-2" data-toggle="counter-up">1782</h2>
                 <p className="text-white mb-0">Complete Shipments</p>
               </div>
             </div>
             <div className="col-sm-6">
               <div className="bg-success p-4 wow fadeIn" data-wow-delay="0.7s">
                 <i className="fa fa-star fa-2x text-white mb-3" />
-                <h2 className="text-white mb-2" data-toggle="counter-up">1234</h2>
+                <h2 className="text-white mb-2" data-toggle="counter-up">849</h2>
                 <p className="text-white mb-0">Customer Reviews</p>
               </div>
             </div>
