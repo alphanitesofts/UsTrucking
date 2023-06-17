@@ -14,10 +14,10 @@ const Team = () => {
         <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
           <div className="team-item p-4">
             <div className="overflow-hidden mb-4">
-              <img className="img-fluid" src="img/team-1.jpg" alt />
+              <img className="img-fluid" src="img/man.png" alt />
             </div>
-            <h5 className="mb-0">Full Name</h5>
-            <p>Designation</p>
+            <h5 className="mb-0">Danny Hart</h5>
+            {/* <p>Designation</p> */}
             <div className="btn-slide mt-1">
               <i className="fa fa-share" />
               <span>
@@ -31,10 +31,10 @@ const Team = () => {
         <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
           <div className="team-item p-4">
             <div className="overflow-hidden mb-4">
-              <img className="img-fluid" src="img/team-2.jpg" alt />
+              <img className="img-fluid" src="img/gamer.png" alt />
             </div>
-            <h5 className="mb-0">Full Name</h5>
-            <p>Designation</p>
+            <h5 className="mb-0">Kevin Hart</h5>
+            {/* <p>Designation</p> */}
             <div className="btn-slide mt-1">
               <i className="fa fa-share" />
               <span>
@@ -48,10 +48,10 @@ const Team = () => {
         <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
           <div className="team-item p-4">
             <div className="overflow-hidden mb-4">
-              <img className="img-fluid" src="img/team-3.jpg" alt />
+              <img className="img-fluid" src="img/mans.png" alt />
             </div>
-            <h5 className="mb-0">Full Name</h5>
-            <p>Designation</p>
+            <h5 className="mb-0">Eric Freeman</h5>
+            {/* <p>Designation</p> */}
             <div className="btn-slide mt-1">
               <i className="fa fa-share" />
               <span>
@@ -65,10 +65,10 @@ const Team = () => {
         <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.9s">
           <div className="team-item p-4">
             <div className="overflow-hidden mb-4">
-              <img className="img-fluid" src="img/team-4.jpg" alt />
+              <img className="img-fluid" src="img/manx.png" alt />
             </div>
-            <h5 className="mb-0">Full Name</h5>
-            <p>Designation</p>
+            <h5 className="mb-0">Nicaloas Franklel</h5>
+            {/* <p>Designation</p> */}
             <div className="btn-slide mt-1">
               <i className="fa fa-share" />
               <span>

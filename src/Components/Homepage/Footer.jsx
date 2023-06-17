@@ -10,8 +10,8 @@ const Footer = () => {
       <div className="row g-5">
         <div className="col-lg-3 col-md-6">
           <h4 className="text-light mb-4">Address</h4>
-          <p className="mb-2"><i className="fa fa-map-marker-alt me-3" />2540 W Shaw lane suite 109 Fresno , CA 93711</p>
-          <p className="mb-2"><i className="fa fa-phone-alt me-3" /> (510) 751-6029</p>
+          <p className="mb-2"><i className="fa fa-map-marker-alt me-3" />7351 N COLLEGE AVE FRESNO CA 93650-1170 USA</p>
+          <p className="mb-2"><i className="fa fa-phone-alt me-3" />(888-462-1113) Ex 101</p>
           <p className="mb-2"><i className="fa fa-envelope me-3" />ustruckingllc.com</p>
           <div className="d-flex pt-2">
             <a className="btn btn-outline-light btn-social" href><i className="fab fa-twitter" /></a>
@@ -52,11 +52,6 @@ const Footer = () => {
           <div className="col-md-6 text-center text-md-start mb-3 mb-md-0">
             © <a className="border-bottom" href="https://ustruckingllc.com">ustruckingllc.com</a>, All Right Reserved.
           </div>
-            {/*/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. *** /*/}
-          {/* <div className="col-md-6 text-center text-md-end">
-            Designed By <a className="border-bottom" href="https://htmlcodex.com">HTML Codex</a>
-            <br />Distributed By <a className="border-bottom" href="https://themewagon.com" target="_blank">ThemeWagon</a>
-          </div> */}
         </div>
       </div>
     </div>

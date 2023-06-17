@@ -14,21 +14,21 @@ const Features = () => {
             <i className="fa fa-globe text-primary fa-3x flex-shrink-0" />
             <div className="ms-4">
               <h5>Worldwide Service</h5>
-              <p className="mb-0">Diam dolor ipsum sit amet eos erat ipsum lorem sed stet lorem sit clita duo justo magna erat amet</p>
+              {/* <p className="mb-0">Diam dolor ipsum sit amet eos erat ipsum lorem sed stet lorem sit clita duo justo magna erat amet</p> */}
             </div>
           </div>
           <div className="d-flex mb-5 wow fadeIn" data-wow-delay="0.5s">
             <i className="fa fa-shipping-fast text-primary fa-3x flex-shrink-0" />
             <div className="ms-4">
               <h5>On Time Delivery</h5>
-              <p className="mb-0">Diam dolor ipsum sit amet eos erat ipsum lorem sed stet lorem sit clita duo justo magna erat amet</p>
+              {/* <p className="mb-0">Diam dolor ipsum sit amet eos erat ipsum lorem sed stet lorem sit clita duo justo magna erat amet</p> */}
             </div>
           </div>
           <div className="d-flex mb-0 wow fadeInUp" data-wow-delay="0.7s">
             <i className="fa fa-headphones text-primary fa-3x flex-shrink-0" />
             <div className="ms-4">
               <h5>24/7 Telephone Support</h5>
-              <p className="mb-0">Diam dolor ipsum sit amet eos erat ipsum lorem sed stet lorem sit clita duo justo magna erat amet</p>
+              {/* <p className="mb-0">Diam dolor ipsum sit amet eos erat ipsum lorem sed stet lorem sit clita duo justo magna erat amet</p> */}
             </div>
           </div>
         </div>

@@ -85,7 +85,7 @@ const Services = () => {
               </div>
             </div>
 
-            <div className="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s" >
+            <div className="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s" >
               <div className='card' style={{ backgroundColor: '#ff3e41', height:'355px' }}>
                 <div className='card-body'>
                   <h3 className='text-center'>Flatbed/Stepdeck</h3>
@@ -95,7 +95,7 @@ const Services = () => {
               </div>
             </div>
 
-            <div className="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s" >
+            <div className="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.7s" >
               <div className='card' style={{ backgroundColor: '#ff3e41' }}>
                 <div className='card-body'>
                   <h3 className='text-center'>Reefer</h3>
